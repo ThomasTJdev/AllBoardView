@@ -18,7 +18,7 @@ Installation
 
 or
 
-- Create a folder **plugins/Tabler**
+- Create a folder **plugins/AllBoardView**
 - Copy all files under this directory
 
 or
