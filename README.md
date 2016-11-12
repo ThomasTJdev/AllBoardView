@@ -1,7 +1,7 @@
-Kanboard Plugin for notes
-==========================
+Kanboard Plugin for viewing all boards
+======================================
 
-This plugin adds a new table with advanced features for viewing tasks across projects on one page.
+This plugin adds a view for viewing all boards at the same time.
 
 Plugin for https://github.com/fguillot/kanboard
 
