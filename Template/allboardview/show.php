@@ -4,9 +4,13 @@
 <!-- js files -->
 <script src="http://cdn.webix.com/site/webix.js" type="text/javascript"></script>
 <script src="http://cdn.webix.com/site/kanban/kanban.js" type="text/javascript"></script>
+<?= //$this->asset->js('plugins/AllBoardView/assets/js/webix.js') ?>
+<?= //$this->asset->js('plugins/AllBoardView/assets/js/kanban.js') ?>
 <!-- css files -->
 <link rel="stylesheet" href="http://cdn.webix.com/site/webix.css" type="text/css" charset="utf-8">
 <link rel="stylesheet" href="http://cdn.webix.com/site/kanban/kanban.css" type="text/css" charset="utf-8">
+<?= //$this->asset->css('plugins/AllBoardView/assets/css/webix.css') ?>
+<?= //$this->asset->css('plugins/AllBoardView/assets/css/kanban.css') ?>
 
 <style>
 .projectnameh2 {
